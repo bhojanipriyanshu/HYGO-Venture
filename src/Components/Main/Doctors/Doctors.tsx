@@ -1,3 +1,4 @@
+import React from "react"
 import { DoctorsData } from "@/Components/Shared/Consts"
 import SectionWrapper from "../SectionWrapper"
 import Doctor from "./Doctor"

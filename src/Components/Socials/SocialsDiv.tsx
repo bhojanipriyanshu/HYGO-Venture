@@ -1,3 +1,4 @@
+import React from "react"
 import { BsInstagram, BsLinkedin } from "react-icons/bs"
 const SocialsDiv = () => {
   return (

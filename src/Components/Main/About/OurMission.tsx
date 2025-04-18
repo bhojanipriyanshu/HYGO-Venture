@@ -1,3 +1,5 @@
+import React from 'react';
+
 const OurMission = () => {
   return (
     <div className="py-16 bg-gradient-to-br from-blue-50 to-purple-50 rounded-3xl">

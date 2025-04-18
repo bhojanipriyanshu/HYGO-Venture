@@ -1,3 +1,4 @@
+import React from "react"
 import { FooterData } from "../Shared/Consts"
 import SocialsDiv from "../Socials/SocialsDiv"
 import { MapPin, Phone, Mail, Clock } from "lucide-react"

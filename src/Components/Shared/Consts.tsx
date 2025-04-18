@@ -1,3 +1,4 @@
+import React from "react";
 import healthcare from "@/assets/Images/Icons/healthcare.png"
 import cardiology from "@/assets/Images/Icons/Cardiology.png"
 import orthopedics from "@/assets/Images/Icons/Orthopoedics.png"

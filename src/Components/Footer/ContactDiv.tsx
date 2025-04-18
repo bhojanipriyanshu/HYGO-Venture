@@ -1,3 +1,4 @@
+import React from "react"
 import SocialsDiv from "../Socials/SocialsDiv"
 import Input from "../UI/Input"
 

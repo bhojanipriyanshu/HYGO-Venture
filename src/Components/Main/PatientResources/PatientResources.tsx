@@ -1,5 +1,5 @@
 import { FileText, Download, Phone, Calendar, CreditCard, HelpCircle } from "lucide-react"
-
+import React from "react"
 const PatientResources = () => {
   const resources = [
     {

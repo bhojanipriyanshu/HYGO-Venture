@@ -1,3 +1,4 @@
+import React from "react"
 import type { SelectedPage } from "@/Components/Shared/Types"
 import Link from "./Link"
 import { links } from "@/Components/Shared/Consts"

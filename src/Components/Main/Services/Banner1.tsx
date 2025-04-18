@@ -1,6 +1,6 @@
 import { Banner1Data } from "@/Components/Shared/Consts"
 import ListItem from "./ListItem"
-
+import React from "react"
 const Banner1 = () => {
   return (
     <div className="flex flex-col items-center w-full h-full bg-gradient-to-br from-[#e6f9ff] to-[#f0fbff] rounded-3xl p-6 shadow-lg hover:shadow-xl transition-all duration-300">

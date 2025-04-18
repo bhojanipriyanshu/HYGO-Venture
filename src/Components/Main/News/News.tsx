@@ -1,5 +1,5 @@
 import { Calendar, User, Tag } from "lucide-react"
-
+import React from "react"
 const News = () => {
   const newsItems = [
     {

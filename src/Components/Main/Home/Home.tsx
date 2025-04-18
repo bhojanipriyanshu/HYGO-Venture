@@ -1,15 +1,15 @@
 "use client"
-
+import React from "react"
 import { Swiper, SwiperSlide } from "swiper/react"
 import { Autoplay, EffectFade, Pagination } from "swiper/modules"
 import "swiper/css"
 import "swiper/css/effect-fade"
 import "swiper/css/pagination"
 import hero from "@/assets/Images/hero.jpg"
-import Picture2 from "@/assets/images/Picture2.jpg"
-import Picture4 from "@/assets/images/Picture4.jpg"
-import Picture8 from "@/assets/images/Picture8.jpg"
-import Picture10 from "@/assets/images/Picture10.jpg"
+import Picture2 from "@/assets/Images/Picture2.jpg"
+import Picture4 from "@/assets/Images/Picture4.jpg"
+import Picture8 from "@/assets/Images/Picture8.jpg"
+import Picture10 from "@/assets/Images/Picture10.jpg"
 import { useNavigate } from "react-router-dom"
 
 const Home = () => {

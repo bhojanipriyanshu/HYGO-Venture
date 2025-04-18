@@ -1,6 +1,6 @@
 "use client"
 
-import type React from "react"
+import React from "react"
 
 import { useState } from "react"
 import { Calendar, Clock, User, Phone, MessageSquare } from "lucide-react"

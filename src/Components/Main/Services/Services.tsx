@@ -1,5 +1,6 @@
-"use client"
 
+"use client"
+import React from "react"
 import { ServicesData } from "@/Components/Shared/Consts"
 import Service from "./Service"
 import { useState } from "react"

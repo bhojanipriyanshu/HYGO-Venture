@@ -16,6 +16,7 @@ import Departments from "./Components/Main/Departments/Departments"
 import PatientResources from "./Components/Main/PatientResources/PatientResources"
 import News from "./Components/Main/News/News"
 import AppointmentBooking from "./Components/Main/Appointment/AppointmentBooking"
+import React from "react"
 
 function App() {
   return (

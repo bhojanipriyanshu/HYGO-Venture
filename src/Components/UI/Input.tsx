@@ -1,5 +1,5 @@
 import { PaperAirplaneIcon } from "@heroicons/react/24/solid"
-
+import React from "react"
 type Props = {
   placeholder: string
 }

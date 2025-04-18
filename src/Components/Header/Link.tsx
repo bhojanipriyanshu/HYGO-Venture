@@ -1,5 +1,6 @@
 "use client"
 
+import React from "react"
 import type { SelectedPage } from "@/Components/Shared/Types"
 import AnchorLink from "react-anchor-link-smooth-scroll"
 

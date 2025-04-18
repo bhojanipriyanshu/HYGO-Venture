@@ -2,8 +2,7 @@ import React from "react"
 import { FeedbackData } from "../../Shared/Consts"
 import SectionWrapper from "../SectionWrapper"
 import Review from "./Review"
-import Picture1 from "@/assets/images/Picture1.jpg" // Ensure this path is correct
-
+import Picture1 from "@/assets/Images/Picture1.jpg";
 const Reviews = () => {
   return (
     <SectionWrapper id="reviews">
@@ -14,7 +13,6 @@ const Reviews = () => {
         ))}
       </div>
 
-      {/* Review Image Section */}
       <div className="max-w-4xl mx-auto">
         <img
           src={Picture1}
