@@ -1,4 +1,5 @@
-import { FeedbackData } from "@/Components/Shared/Consts"
+import React from "react"
+import { FeedbackData } from "../../Shared/Consts"
 import SectionWrapper from "../SectionWrapper"
 import Review from "./Review"
 import Picture1 from "@/assets/images/Picture1.jpg" // Ensure this path is correct
