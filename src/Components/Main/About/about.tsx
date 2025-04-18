@@ -1,4 +1,5 @@
-import AboutHYGO from "@/Components/Main/About/AboutHYGO"
+import React from "react";
+import AboutHYGO from "./AboutHYGO"
 
 const About = () => {
   return (

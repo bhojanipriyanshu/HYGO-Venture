@@ -1,4 +1,5 @@
 "use client"
+import React from "react"
 import { motion } from "framer-motion"
 import DoctorImage1 from "@/assets/Images/Doctors/doc1.png"
 import DoctorImage2 from "@/assets/Images/Doctors/doc2.png"
@@ -33,9 +34,9 @@ const doctors = [
   {
     img: DoctorImage3,
     name: "Dr. Shrut Vasavada",
-    title: "MBBS, MS (Orthopedics), FISS, FMISS",
+    title: "Consultant Spine Surgeon, MBBS, MS (Orthopaedics), FISS, FMISS",
     description:
-      "Dr. Shrut Vasavada is a leading orthopedic surgeon specializing in joint replacements, sports injuries, and trauma care. He is committed to restoring mobility and improving the quality of life for his patients.",
+    "Dr. Shrut Vasavada is a fellowship-trained spine surgeon specializing in minimally invasive and endoscopic spine surgery. He is dedicated to advancing precision in spine care, with a focus on faster recovery and enhanced patient outcomes through cutting-edge techniques."
   },
   {
     img: DoctorImage4,
